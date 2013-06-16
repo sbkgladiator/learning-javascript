@@ -5,6 +5,6 @@
 -------
 * Home page
 * About page
-* CSS 
+* CSS *-footer - header -buttons*
 
 ---
