@@ -20,3 +20,8 @@
 ###- other graphics elements
 ###- About html page
 ###- 3D Molecola model for homepage
+
+- - -
+#Principal elements
+###- Plasm.js Canvas in Homepage
+###-HTML5 structure with header and footer
