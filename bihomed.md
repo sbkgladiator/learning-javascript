@@ -8,7 +8,7 @@
 
 
 
-##Giorgio Cerrito
+##Giorgio Cerrito and Gianluca Parente
 ###Tasks:
 ###Creation and implementation of Lar-Biomed client-side
 ###(integration layer of other projects)
@@ -19,3 +19,4 @@
 ###- link to other projects pages
 ###- other graphics elements
 ###- About html page
+###- 3D Molecola model for homepage
