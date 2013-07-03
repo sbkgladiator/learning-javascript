@@ -24,6 +24,12 @@
 ###Homepage
 ![image](https://raw.github.com/sbkgladiator/learning-javascript/master/home.jpg)
 - - -
+#Home.html
+###-double Menu in the header: first for navigation, second for other projects
+###-Menu and buttons style defined in home.css
+- - - 
 ###About page
 ![image](https://raw.github.com/sbkgladiator/learning-javascript/master/about.jpg)
 - - -
+#About.html
+###-same style of homepage with names of web-visual group students
