@@ -25,10 +25,10 @@
 ![image](https://raw.github.com/sbkgladiator/learning-javascript/master/home.jpg)
 - - -
 #Home.html
-###-double Menu in the header: first for navigation, second for other projects
+###-double Menu with colored icon in the header: first for navigation, second for other projects
 ###-Menu and buttons style defined in home.css
 ###-Plasm.js canvas integrated in context div with a 3D model of a real protein-molecola
-###-OpenConsole button in the bottom of canvas near projects button
+###-OpenConsole button in the bottom of canvas near the 3 projects button
 - - - 
 ###About page
 ![image](https://raw.github.com/sbkgladiator/learning-javascript/master/about.jpg)
