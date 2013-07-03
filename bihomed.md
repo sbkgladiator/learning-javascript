@@ -27,9 +27,12 @@
 #Home.html
 ###-double Menu in the header: first for navigation, second for other projects
 ###-Menu and buttons style defined in home.css
+###-Plasm.js canvas integrated in context div with a 3D model of a real protein-molecola
+###-OpenConsole button in the bottom of canvas near projects button
 - - - 
 ###About page
 ![image](https://raw.github.com/sbkgladiator/learning-javascript/master/about.jpg)
 - - -
 #About.html
-###-same style of homepage with names of web-visual group students
+###-same style of homepage in the about.css file 
+###-the page contains the names of web-visual group students
