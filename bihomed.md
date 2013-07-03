@@ -1,6 +1,6 @@
 #Web-Visual
 ##Design and development of the LAR-BIOMED app
-
+##
 
 
 - - -
@@ -20,8 +20,10 @@
 ###- other graphics elements
 ###- About html page
 ###- 3D Molecola model for homepage
-
 - - -
-#Principal elements
-###- Plasm.js Canvas in Homepage
-###-HTML5 structure with header and footer
+###Homepage
+![Alt text](home.png)
+- - -
+###About page
+![Alt text](about.png)
+- - -
