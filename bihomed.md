@@ -22,8 +22,8 @@
 ###- 3D Molecola model for homepage
 - - -
 ###Homepage
-![Alt text](home.png)
+![image](home.png)
 - - -
 ###About page
-![Alt text](about.png)
+![image](about.png)
 - - -
