@@ -29,7 +29,11 @@
 ###-Menu and buttons style defined in home.css
 ###-Plasm.js canvas integrated in context div with a 3D model of a real protein-molecola
 ###-OpenConsole button in the bottom of canvas near the 3 projects button
-- - - 
+- - -
+##Details
+###-3d Molecola code in a .js configuration file anche auto-runs thanks to <body onLoad="showmolecole()"> in the index.html code file
+###-elements sizes in percentual for visualizing correctly in all screen size, better in a large screen
+- - -
 ###About page
 ![image](https://raw.github.com/sbkgladiator/learning-javascript/master/about.jpg)
 - - -
