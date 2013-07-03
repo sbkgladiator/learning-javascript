@@ -22,8 +22,8 @@
 ###- 3D Molecola model for homepage
 - - -
 ###Homepage
-![image](home.png)
+![image](https://raw.github.com/sbkgladiator/learning-javascript/master/home.jpg)
 - - -
 ###About page
-![image](about.png)
+![image](https://raw.github.com/sbkgladiator/learning-javascript/master/about.jpg)
 - - -
