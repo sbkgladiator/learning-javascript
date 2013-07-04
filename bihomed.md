@@ -3,7 +3,7 @@
 
 
 
-- - -
+---
 # Individual task
 
 
@@ -38,5 +38,5 @@
 ![image](https://raw.github.com/sbkgladiator/learning-javascript/master/about.jpg)
 - - -
 #About.html
-###-same style of homepage in the about.css file 
+###-style of homepage in the home.css file 
 ###-the page contains the names of web-visual group students
